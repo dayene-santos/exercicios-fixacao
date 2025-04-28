@@ -2,6 +2,12 @@ package TiposPrimitivosOperadores.dominio;
 
 public class exercicio02 {
 
+    /*- [x]  **Tipos Primitivos - Declaração e Tamanho em Memória**
+    Você foi contratado para otimizar um programa que gasta muita memória.
+    Explique como o tamanho dos tipos primitivos impacta o uso de memória
+    e cite exemplos de tipos mais leves e mais pesados.
+     */
+
     /**
      * | Tipo Primitivo | Tamanho em Memória | Descrição |
      * |----------------|--------------------|-----------|
