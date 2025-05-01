@@ -9,5 +9,6 @@ public class exercicio04 {
 
         System.out.println("Meu nome completo é: " + nome + " " + sobrenome);
         System.out.println("Moro em: " + endereco);
+
     }
 }
