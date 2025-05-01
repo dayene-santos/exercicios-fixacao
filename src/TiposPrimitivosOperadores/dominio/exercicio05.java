@@ -1,8 +1,4 @@
-package TiposPrimitivosOperadores.dominio;
-
-public class exercicio05 {
-
-    /* Operadores Aritméticos
+/* Operadores Aritméticos
 
     Imagine que você está desenvolvendo uma calculadora simples.
     Implemente uma função que receba dois números e aplique as quatro operações básicas (+, -, *, /).
@@ -16,4 +12,3 @@ public class exercicio05 {
      * / divisão
      */
 
-}
