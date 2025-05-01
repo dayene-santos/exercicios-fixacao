@@ -1,7 +1,3 @@
-package TiposPrimitivosOperadores.dominio;
-
-public class exercicio03 {
-
     /*
     Casting
     Um sistema financeiro precisa converter valores double para int em certos momentos.
@@ -20,5 +16,3 @@ public class exercicio03 {
      * para um tipo de menor capacidade, o que pode causar perda de dados (como de double para int).
      * Neste caso, você precisa informar ao compilador que deseja realizar a conversão.
      */
-
-}

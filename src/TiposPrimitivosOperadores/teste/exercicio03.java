@@ -12,5 +12,6 @@ public class exercicio03 {
         // Exibindo os resultados
         System.out.println("Valor original (double): " + valorDouble);  // 123.456
         System.out.println("Valor convertido (int): " + valorInt);      // 123
+
     }
 }
