@@ -1,8 +1,4 @@
-package TiposPrimitivosOperadores.dominio;
-
-public class exercicio06 {
-
-    /*
+/*
     - [ ]  **Operadores Relacionais**
 
     Em um sistema de login, é necessário comparar se a senha digitada é igual à senha cadastrada.
@@ -17,4 +13,3 @@ public class exercicio06 {
      * <= Menor ou Igual que
      */
 
-}
