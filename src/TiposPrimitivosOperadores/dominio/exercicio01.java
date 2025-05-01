@@ -1,12 +1,9 @@
-package TiposPrimitivosOperadores.dominio;
+/*
+Tipos Primitivos - Convenções de Variáveis
 
-//Tipos Primitivos - Convenções de Variáveis
-
-public class exercicio01 {
-
-    //Joana está criando um sistema e precisa nomear suas variáveis seguindo boas práticas.
-    // Explique quais são as convenções de nomenclatura para variáveis em Java e dê 3 exemplos corretos.
-
+Joana está criando um sistema e precisa nomear suas variáveis seguindo boas práticas.
+Explique quais são as convenções de nomenclatura para variáveis em Java e dê 3 exemplos corretos.
+*/
     /** Convenções de Nomenclatura
      1- Não utilizar caracteres especiais no início do nome da variável
         Errado: @variavel, #valor
@@ -40,4 +37,3 @@ public class exercicio01 {
              Certo: numberOfItems, totalAmount.
              Errado: numeroDeItens, valorTotal.
     **/
-}
