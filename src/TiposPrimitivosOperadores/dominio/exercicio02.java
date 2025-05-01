@@ -1,12 +1,10 @@
-package TiposPrimitivosOperadores.dominio;
+ /*
+ Tipos Primitivos - Declaração e Tamanho em Memória
 
-public class exercicio02 {
-
-    /*- [x]  **Tipos Primitivos - Declaração e Tamanho em Memória**
-    Você foi contratado para otimizar um programa que gasta muita memória.
-    Explique como o tamanho dos tipos primitivos impacta o uso de memória
-    e cite exemplos de tipos mais leves e mais pesados.
-     */
+Você foi contratado para otimizar um programa que gasta muita memória.
+Explique como o tamanho dos tipos primitivos impacta o uso de memória
+e cite exemplos de tipos mais leves e mais pesados.
+*/
 
     /**
      * | Tipo Primitivo | Tamanho em Memória | Descrição |
@@ -32,4 +30,3 @@ public class exercicio02 {
      *
      * Esses tamanhos são fixos e não variam dependendo da plataforma, já que Java é uma linguagem de alto nível com tipagem estática e uma Máquina Virtual (JVM) que garante a consistência do comportamento dos tipos primitivos.
      */
-}

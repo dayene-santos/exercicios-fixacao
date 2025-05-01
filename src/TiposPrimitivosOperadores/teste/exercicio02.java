@@ -32,6 +32,7 @@ public class exercicio02 {
         // O tipo 'char' armazena caracteres Unicode.
         char letraInicial = 'A'; // Primeira letra do alfabeto
         System.out.printf("Letra inicial do produto: %c (tipo char, 2 bytes de memória)%n", letraInicial);
-            }
-        }
+
+    }
+}
 
