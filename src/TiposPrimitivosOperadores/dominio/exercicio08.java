@@ -1,4 +1,7 @@
-package TiposPrimitivosOperadores.dominio;
+/*
+8- Operadores Lógicos OR
 
-public class exercicio0 {
-}
+    Em uma promoção, o cliente recebe desconto se for cliente VIP ou se tiver cupom de desconto.
+    Crie uma lógica que resolva esse caso usando ||.
+
+ */

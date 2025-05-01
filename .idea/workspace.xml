@@ -66,13 +66,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio08">
-    <configuration name="exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposPrimitivosOperadores.teste.exercicio04" />
+  <component name="RunManager" selected="Application.exercicio01">
+    <configuration name="exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeControle.teste.exercicio01" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TiposPrimitivosOperadores.teste.*" />
+          <option name="PATTERN" value="EstruturasDeControle.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio01" />
         <item itemvalue="Application.exercicio08" />
         <item itemvalue="Application.exercicio07" />
         <item itemvalue="Application.exercicio06" />
         <item itemvalue="Application.exercicio05" />
-        <item itemvalue="Application.exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +327,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746136460053</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Exercicio 09 - Operadores de Atribuição">
+      <option name="closed" value="true" />
+      <created>1746143020397</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746143020397</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Exercicio 09 - Operadores de Atribuição">
+      <option name="closed" value="true" />
+      <created>1746143066691</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746143066691</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +383,8 @@
     <MESSAGE value="Exercicio 05 - Operadores Aritméticos" />
     <MESSAGE value="Exercicio 06 - Operadores Relacionais" />
     <MESSAGE value="Exercicio 08 - Operadores Lógicos OR" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 08 - Operadores Lógicos OR" />
+    <MESSAGE value="Exercicio 09 - Operadores de Atribuição" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 09 - Operadores de Atribuição" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/exercicios$exercicio08.ic" NAME="exercicio08 Coverage Results" MODIFIED="1746142152483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
