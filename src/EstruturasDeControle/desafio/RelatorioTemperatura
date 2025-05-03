@@ -1,0 +1,56 @@
+RELATÓRIO DE TEMPERATURAS SEMANAIS - Nível Fácil
+
+Você recebeu um conjunto de temperaturas medidas ao longo de uma semana (7 dias). Desenvolva um sistema que:
+
+- Armazene as temperaturas.
+- Exiba a média semanal.
+- Mostre os dias que ficaram acima da média.
+
+--------------------------------------------------------------------------------
+BRAINSTORM
+
+- O que está sendo pedido?
+- Que dados eu tenho e como armazeno?
+- Que operações preciso fazer?
+- Como mostro o resultado?
+
+1. Entendendo o problema:
+O que são as entradas?
+→ Temperaturas de 7 dias.
+
+O que são as saídas?
+→ Média semanal e dias com temperatura acima da média.
+
+Que tipo de dado estou lidando?
+→ Números decimais representando graus.
+
+2. Como posso representar essas informações?
+
+Como armazenar 7 temperaturas?
+→ Lista, vetor, array?
+
+Como representar os dias da semana?
+→ Preciso saber o nome do dia ou apenas a posição (dia 1, dia 2, etc.)?
+
+3. O que você precisa fazer com os dados:
+
+Como calcular a média de 7 números?
+→ Somar todos e dividir por 7.
+
+Como saber quais dias ficaram acima da média?
+→ Comparar cada temperatura com a média calculada.
+
+4. Como vou apresentar isso de forma clara para o usuário?
+
+Mostrar a média em destaque.
+Mostrar a lista dos dias com temperaturas acima da média:
+Apenas os valores? Ou também a posição (ex: "Dia 3: 30°C")?
+
+5. Pensamento modular (etapas em blocos)
+Você pode separar o problema em "blocos":
+
+Entrada dos dados – armazenar 7 valores.
+Cálculo da média – uma função ou parte do código.
+Identificação dos dias acima da média – outra parte que analisa.
+Saída formatada – onde tudo é apresentado.
+

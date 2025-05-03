@@ -43,36 +43,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicio08.executor&quot;: &quot;Coverage&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RelatorioTemperatura.executor": "Run",
+    "Application.exercicio01.executor": "Run",
+    "Application.exercicio02.executor": "Run",
+    "Application.exercicio04.executor": "Run",
+    "Application.exercicio05.executor": "Run",
+    "Application.exercicio06.executor": "Run",
+    "Application.exercicio07.executor": "Run",
+    "Application.exercicio08.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.exercicio01">
-    <configuration name="exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeControle.teste.exercicio01" />
+}]]></component>
+  <component name="RunManager" selected="Application.RelatorioTemperatura">
+    <configuration name="RelatorioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeControle.solucao.RelatorioTemperatura" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeControle.teste.*" />
+          <option name="PATTERN" value="EstruturasDeControle.solucao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposPrimitivosOperadores.teste.exercicio05" />
+    <configuration name="exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeControle.teste.exercicio01" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TiposPrimitivosOperadores.teste.*" />
+          <option name="PATTERN" value="EstruturasDeControle.solucao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RelatorioTemperatura" />
         <item itemvalue="Application.exercicio01" />
         <item itemvalue="Application.exercicio08" />
         <item itemvalue="Application.exercicio07" />
         <item itemvalue="Application.exercicio06" />
-        <item itemvalue="Application.exercicio05" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +344,39 @@
       <option name="project" value="LOCAL" />
       <updated>1746143066691</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Exercicio 01 - Estrutura IF">
+      <option name="closed" value="true" />
+      <created>1746143545468</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746143545468</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Exercicio 08 - Operadores Lógicos OR">
+      <option name="closed" value="true" />
+      <created>1746143707450</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1746143707450</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Exercicio 08 - Operadores Lógicos OR">
+      <option name="closed" value="true" />
+      <created>1746143712639</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1746143712639</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Exercicio 02 - Estrutura ELSE IF">
+      <option name="closed" value="true" />
+      <created>1746144465820</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1746144465820</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,9 +415,11 @@
     <MESSAGE value="Exercicio 04 - Strings" />
     <MESSAGE value="Exercicio 05 - Operadores Aritméticos" />
     <MESSAGE value="Exercicio 06 - Operadores Relacionais" />
-    <MESSAGE value="Exercicio 08 - Operadores Lógicos OR" />
     <MESSAGE value="Exercicio 09 - Operadores de Atribuição" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 09 - Operadores de Atribuição" />
+    <MESSAGE value="Exercicio 01 - Estrutura IF" />
+    <MESSAGE value="Exercicio 08 - Operadores Lógicos OR" />
+    <MESSAGE value="Exercicio 02 - Estrutura ELSE IF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 02 - Estrutura ELSE IF" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/exercicios$exercicio08.ic" NAME="exercicio08 Coverage Results" MODIFIED="1746142152483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
