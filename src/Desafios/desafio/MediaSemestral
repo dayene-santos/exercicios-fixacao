@@ -1,0 +1,36 @@
+CALCULADORA DE MÉDIA SEMESTRAL - Nível Fácil
+
+Desenvolva um programa que simule a avaliação final de um estudante. O sistema deverá:
+
+1. Ler os nomes de várias disciplinas cursadas pelo aluno (quantidade definida pelo usuário).
+2. Para cada disciplina, ler duas notas (Nota 1 e Nota 2).
+3. Calcular a média final da disciplina com base nas duas notas.
+4. Informar se o aluno está "Aprovado" (média ≥ 6.0) ou "Reprovado" (média < 6.0) em cada disciplina.
+5. Ao final, exibir um relatório geral com:
+    - Nome da disciplina
+    - As duas notas
+    - Média final
+    - Situação (Aprovado/Reprovado)
+--------------------------------------------------------------------------------------------------------------------
+BRAINSTORM
+
+O que o programa irá receber?
+    - quantidade de disciplinas cursadas ✅
+    - nome das disciplinas ✅
+    - nota1 e nota2 ✅
+
+O que são as saídas?
+    - nome da disciplina ✅
+    - as notas obtidas ✅
+    - media final ✅
+    - Aprovado/Reprovado ✅
+
+Que tipo de dado estou lidando?
+    - int para quantidade de disciplinas ✅
+    - String para nome das disciplinas ✅
+    - double para notas e médias ✅
+
+O que você precisa fazer com os dados:
+    - somar as notas ✅
+    - calcular a média ✅
+

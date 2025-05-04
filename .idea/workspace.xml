@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MediaSemestral.executor": "Run",
     "Application.RelatorioTemperatura.executor": "Run",
     "Application.exercicio01.executor": "Run",
     "Application.exercicio02.executor": "Run",
@@ -67,13 +68,26 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RelatorioTemperatura">
-    <configuration name="RelatorioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeControle.solucao.RelatorioTemperatura" />
+  <component name="RunManager" selected="Application.MediaSemestral">
+    <configuration name="MediaSemestral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.solucao.MediaSemestral" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeControle.solucao.*" />
+          <option name="PATTERN" value="Desafios.solucao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatorioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.solucao.RelatorioTemperatura" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.solucao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,20 +100,7 @@
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeControle.solucao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposPrimitivosOperadores.teste.exercicio06" />
-      <module name="exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TiposPrimitivosOperadores.teste.*" />
+          <option name="PATTERN" value="Desafios.solucao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediaSemestral" />
         <item itemvalue="Application.RelatorioTemperatura" />
         <item itemvalue="Application.exercicio01" />
         <item itemvalue="Application.exercicio08" />
         <item itemvalue="Application.exercicio07" />
-        <item itemvalue="Application.exercicio06" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +377,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746144465820</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Exercicio - Relatório de Temperaturas Semanais">
+      <option name="closed" value="true" />
+      <created>1746314422952</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1746314422952</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Exercicio - Relatório de Temperaturas Semanais">
+      <option name="closed" value="true" />
+      <created>1746314427890</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1746314427890</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Exercicio - Relatório de Temperaturas Semanais">
+      <option name="closed" value="true" />
+      <created>1746315103592</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1746315103592</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +444,8 @@
     <MESSAGE value="Exercicio 01 - Estrutura IF" />
     <MESSAGE value="Exercicio 08 - Operadores Lógicos OR" />
     <MESSAGE value="Exercicio 02 - Estrutura ELSE IF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 02 - Estrutura ELSE IF" />
+    <MESSAGE value="Exercicio - Relatório de Temperaturas Semanais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio - Relatório de Temperaturas Semanais" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/exercicios$exercicio08.ic" NAME="exercicio08 Coverage Results" MODIFIED="1746142152483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
